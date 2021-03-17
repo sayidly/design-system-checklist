@@ -1,4 +1,4 @@
-export default {
+var designTokens = {
   "id": "design-tokens",
   "title": "Design tokens",
   "description": "Variables that store values for the base layer of your design system, like colour and typography. They’re used in components, so changes on this level will resonate throughout the whole system.",
@@ -130,3 +130,5 @@ export default {
     }]
   }]
 };
+
+export default designTokens;

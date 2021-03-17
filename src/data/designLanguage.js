@@ -1,4 +1,4 @@
-export default {
+var designLanguage = {
   "id": "design-language",
   "title": "Design language",
   "description": "Like any language, a design language is a methodical way of communicating with your audience through your approach to product design. It’s the cornerstone of consistent customer experiences.",
@@ -99,3 +99,5 @@ export default {
     }]
   }]
 };
+
+export default designLanguage;

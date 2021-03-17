@@ -4,10 +4,12 @@ import coreComponents from './coreComponents';
 import tooling from './tooling';
 import projectManagement from './projectManagement';
 
-export default {
+var index = {
   designLanguage,
   designTokens,
   coreComponents,
   tooling,
   projectManagement,
 };
+
+export default index;
